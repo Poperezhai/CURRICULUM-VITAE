@@ -1,0 +1,34 @@
+a:hover
+{
+	color: darkblue;
+font-size: 36px;}
+
+body
+ {
+ 	background-image: url(background.gif);
+ }
+
+image
+
+h1
+{
+	text-align: center;
+}
+
+pre {
+	text-align: center;
+}
+
+div
+{
+	border-width: 5px;
+	border-style: groove;
+	border-radius: 25px;
+	border-color: firebrick;
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px;
+	margin: 12px auto;
+	width: 95%;
+}
+
